@@ -1,0 +1,5 @@
+E:\git\hw6\obj\Debug\net8.0\hw7.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\hw6\obj\Debug\net8.0\hw7.AssemblyInfoInputs.cache
+E:\git\hw6\obj\Debug\net8.0\hw7.AssemblyInfo.cs
+E:\git\hw6\obj\Debug\net8.0\hw7.csproj.CoreCompileInputs.cache
+E:\git\hw6\obj\Debug\net8.0\hw7.sourcelink.json
