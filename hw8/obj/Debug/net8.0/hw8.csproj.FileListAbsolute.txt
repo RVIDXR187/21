@@ -1,0 +1,15 @@
+E:\git\hw8\obj\Debug\net8.0\hw8.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\hw8\obj\Debug\net8.0\hw8.AssemblyInfoInputs.cache
+E:\git\hw8\obj\Debug\net8.0\hw8.AssemblyInfo.cs
+E:\git\hw8\obj\Debug\net8.0\hw8.csproj.CoreCompileInputs.cache
+E:\git\hw8\obj\Debug\net8.0\hw8.sourcelink.json
+E:\git\hw8\bin\Debug\net8.0\hw8.exe
+E:\git\hw8\bin\Debug\net8.0\hw8.deps.json
+E:\git\hw8\bin\Debug\net8.0\hw8.runtimeconfig.json
+E:\git\hw8\bin\Debug\net8.0\hw8.dll
+E:\git\hw8\bin\Debug\net8.0\hw8.pdb
+E:\git\hw8\obj\Debug\net8.0\hw8.dll
+E:\git\hw8\obj\Debug\net8.0\refint\hw8.dll
+E:\git\hw8\obj\Debug\net8.0\hw8.pdb
+E:\git\hw8\obj\Debug\net8.0\hw8.genruntimeconfig.cache
+E:\git\hw8\obj\Debug\net8.0\ref\hw8.dll
